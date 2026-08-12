@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-🎓 Information Science Engineering Student  
-☕ Focused on **Java Backend Development**  
-🌱 Currently learning **Spring Boot & Advanced Backend Development**  
-🐳 Exploring **Docker, AWS, Jenkins & CI/CD**  
-💡 Interested in building scalable and practical applications  
-🎯 Preparing for Software Engineering opportunities  
+🎓 Information Science Engineering Student
+☕ Focused on **Java Backend Development**
+🌱 Currently learning **Spring Boot & Advanced Backend Development**
+🐳 Exploring **Docker, AWS, Jenkins & CI/CD**
+💡 Interested in building scalable and practical applications
+🎯 Preparing for Software Engineering opportunities
 
 ---
 
@@ -59,19 +59,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahanapoojary14&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanapoojary14&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=sahanapoojary14&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanapoojary14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahanapoojary14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
@@ -130,8 +122,18 @@ Docker
 AWS
   ↓
 Jenkins / CI-CD
+```
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanapoojary14&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 
 
 ---
@@ -148,7 +150,7 @@ Jenkins / CI-CD
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mail to:sahanapoojary14@gmail.com">
+<a href="mail to:"sahanapoojary14@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
