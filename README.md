@@ -50,7 +50,7 @@ An intelligent timetable generation system developed using Python and Flask.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](![GitHub Streak](https://streak-stats.demolab.com/?user=sahanapoojary14))
+(https://streak-stats.demolab.com/?user=sahanapoojary14))
 
 ### 🤝 Connect With Me
 
