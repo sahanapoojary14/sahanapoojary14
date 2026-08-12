@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-🎓 Information Science Engineering Student
-☕ Focused on **Java Backend Development**
-🌱 Currently learning **Spring Boot & Advanced Backend Development**
-🐳 Exploring **Docker, AWS, Jenkins & CI/CD**
-💡 Interested in building scalable and practical applications
-🎯 Preparing for Software Engineering opportunities
+🎓 Information Science Engineering Student  
+☕ Focused on **Java Backend Development**  
+🌱 Currently learning **Spring Boot & Advanced Backend Development**  
+🐳 Exploring **Docker, AWS, Jenkins & CI/CD**  
+💡 Interested in building scalable and practical applications  
+🎯 Preparing for Software Engineering opportunities  
 
 ---
 
@@ -26,31 +26,38 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,jenkins,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,linux,git,github" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ---
@@ -58,12 +65,12 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahanapoojary14&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahanapoojary14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=sahanapoojary14&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanapoojary14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanapoojary14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -136,22 +143,20 @@ Jenkins / CI-CD
 
 
 
----
-
 # 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/sahanapoojary14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sahana-poojary-325417380)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mail to:"sahanapoojary14@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mail to:sahanapoojary14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
