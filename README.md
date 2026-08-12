@@ -26,7 +26,7 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### ⚙️ Backend
@@ -130,15 +130,6 @@ Docker
 AWS
   ↓
 Jenkins / CI-CD
-```
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanapoojary14&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
