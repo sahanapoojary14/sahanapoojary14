@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Sahana
 
-<!--
-**sahanapoojary14/sahanapoojary14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Java Backend Developer | DevOps Enthusiast
 
-Here are some ideas to get you started:
+I'm an Information Science Engineering student passionate about building
+scalable backend applications and learning modern DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🔭 Currently working on Java & Spring Boot projects
+- 🌱 Learning Spring Boot, REST APIs, SQL, Docker, AWS & CI/CD
+- 💻 Interested in Backend Development and DevOps
+- 🎯 Preparing for software engineering placements
+- 📚 Practicing Data Structures & Algorithms in Java
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+
+**Backend**
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+
+**Databases**
+- MySQL
+- MongoDB
+- PostgreSql
+
+**DevOps & Cloud**
+- Git & GitHub
+- Docker
+- Jenkins
+- AWS
+- Linux
+
+**Frontend**
+- React
+- HTML
+- CSS
+- JavaScript
+
+### 📌 Featured Projects
+
+🔹 **Smart Timetable System**  
+An intelligent timetable generation system developed using Python and Flask.
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahanapoojary14&show_icons=true&theme=tokyonight)
+
+### 🤝 Connect With Me
+
+- LinkedIn
+- GitHub
+- Email
