@@ -50,7 +50,7 @@ An intelligent timetable generation system developed using Python and Flask.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahanapoojary14&show_icons=true&theme=tokyonight)
+![GitHub Stats](![GitHub Streak](https://streak-stats.demolab.com/?user=sahanapoojary14))
 
 ### 🤝 Connect With Me
 
